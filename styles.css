@@ -4,7 +4,7 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background: linear-gradient(to bottom right, #ccc, #f7b6c4, #ffd700);
+    background-image: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
     overflow-x: hidden;
     animation: gradientAnimation 40s ease infinite alternate;
 }
@@ -29,7 +29,7 @@ body {
 
 /* Шапка */
 .header {
-    background-color:  linear-gradient(to bottom right, #ffd700, #f7b6c4, #ccc);
+    background-image: linear-gradient(to right, #833ab4, #fd1d1d, #fcb045);
     color: #fff;
     padding: 20px 0;
     text-align: center;

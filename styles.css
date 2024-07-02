@@ -29,7 +29,7 @@ body {
 
 /* Шапка */
 .header {
-    background-color: #333;
+    background-color:  linear-gradient(to bottom right, #ffd700, #f7b6c4, #ccc);
     color: #fff;
     padding: 20px 0;
     text-align: center;
